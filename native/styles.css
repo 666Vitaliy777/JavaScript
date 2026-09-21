@@ -1,5 +1,5 @@
 header {
-    background-color: pink;
+    background-color: green;
     position: sticky;
     top: 0;
 }
@@ -17,13 +17,13 @@ footer{
 }
 
 .card{
-    border: solid 1px pink;
+    border: solid 2px black;
     border-radius: 20px;
     padding: 20px;
     display: flex;
     flex-direction: column;
     width: 50%;
-    gap: 4px;
+    gap: 10px;
     
 }
 
